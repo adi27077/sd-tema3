@@ -1,0 +1,27 @@
+add_book Bosnia - A Short History:Noel Malcolm:4:384
+add_book Wild Horses:Dick Francis:4:352
+add_book Inferno:Dante Alighieri:4:396
+add_book Ports of Call:Jack Vance:4:300
+add_book Going Native:Stephen Wright:4:320
+add_book Seventeen and In-Between:Barthe DeClements:4:176
+add_book Personal Finance for Dummies:Eric Tyson:4:454
+search_book Seventeen and In-Between
+search_book Young Warriors - Stories of Strength
+search_book Ports of Call
+list_author Jack Vance
+list_author Arthur C. Clarke
+search_by_author Jack Vance:Ports of Call
+search_by_author Anita Shreve:Eden Close
+list_author D~
+list_author Step~
+search_book Ab~
+search_book Per~
+search_by_author Jack~
+search_by_author Barthe DeClements:Seven~
+delete_book Ports of Call
+delete_book The Anderson Tapes - Deadly Sins no 1
+delete_book Wild Horses
+search_book Shakespeare's Romeo and Juliet
+search_book Ports of Call
+search_book Open Secrets
+search_book Personal Finance for Dummies

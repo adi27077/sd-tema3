@@ -1,0 +1,774 @@
+add_book Sprig Muslin:Georgette Heyer:4:268
+add_book Cherry Cheesecake Murder - Hannah Swensen no 8:Joanne Fluke:4:382
+add_book Kitty Goes to Washington - Kitty Norville no 2:Carrie Vaughn:4:342
+add_book Democracy:Joan Didion:4:234
+add_book McSweeney's no 11:Dave Eggers:4:293
+add_book The Key:Lynsay Sands:4:313
+add_book Seize The Fire:Elda Minger:4:249
+add_book The Visual Arts - A History:Hugh Honour:4:960
+add_book The Sheep Look Up:John Brunner:4:388
+add_book Hard News - Rune no 3:Jeffery Deaver:3:304
+add_book Everyday Pasta:Giada De Laurentiis:4:240
+add_book A Scandalous Life - The Biography of Jane Digby:Mary S. Lovell:4:365
+add_book Honey - Shooting Stars no 4:V.C. Andrews:4:180
+add_book Douglas Adams's Starship Titanic:Terry Jones:4:256
+add_book The Confusion - The Baroque Cycle no 2:Neal Stephenson:4:815
+add_book The Blue Flowers:Raymond Queneau:4:232
+add_book Send No Flowers - Bed and Breakfast no 2:Sandra Brown:4:225
+add_book Tsubasa - RESERVoir CHRoNiCLE Vol. 6:CLAMP:4:193
+add_book The Rime of the Ancient Mariner and Other Poems:Samuel Taylor Coleridge:4:76
+add_book Fantastic Mr Fox and Other Animal Stories:Roald Dahl:4:4
+add_book Spandau - The Secret Diaries:Albert Speer:4:463
+add_book The Red Gloves Collection - Red Gloves no 1-4:Karen Kingsbury:4:640
+add_book Ghosts - The New York Trilogy no 2:Paul Auster:4:96
+add_book Conan - Sword of Skelos:Andrew J. Offutt:4:224
+add_book The Memory Keeper's Daughter:Kim Edwards:4:401
+add_book Fantastic Four Vol 5 - Disassembled:Mark Waid:3:136
+add_book Sideswipe - A Hoke Moseley Novel:Charles Willeford:4:215
+add_book Farmer Boy - Little House no 2:Laura Ingalls Wilder:4:357
+add_book Ten Days to Self-Esteem:David D. Burns:4:336
+add_book Clouds:Aristophanes:4:254
+add_book The Pursuit of History:John Tosh:3:357
+add_book Gita on the Green:Stephen J. Rosen:4:176
+add_book Back to Wando Passo:David Payne:3:448
+add_book Night Over Water:Ken Follett:4:448
+add_book The Warrior Prophet - The Prince of Nothing no 2:R. Scott Bakker:4:624
+add_book Literature Circle Guide - A Wrinkle in Time:Tara MacCarthy:4:32
+add_book Spook - Science Tackles the Afterlife:Mary Roach:4:311
+add_book The Turtle - The Lighthouse Family no 4:Cynthia Rylant:4:48
+add_book The Girl with the Long Green Heart:Lawrence Block:4:251
+add_book Marjorie Morningstar:Herman Wouk:4:565
+add_book Scar Lover:Harry Crews:4:288
+add_book A Moveable Feast:Ernest Hemingway:4:192
+add_book The Idiot:Fyodor Dostoyevsky:4:667
+add_book Medea and Other Plays:Euripides:4:206
+add_book Diary of a Madman and Other Stories:Nikolai Gogol:4:84
+add_book Glass Soup - Vincent Ettrich no 2:Jonathan Carroll:4:320
+add_book Real Ultimate Power - The Official Ninja Book:Robert Hamburger:4:193
+add_book ER Vets - Life in an Animal Emergency Room:Donna M. Jackson:4:96
+add_book The Inner Sanctum:Stephen W. Frey:4:448
+add_book Una Vida Con Proposito Volumen 6:Rick Warren:4:56
+add_book Moderato cantabile:Marguerite Duras:4:122
+add_book Waterfront - A Walk Around Manhattan:Phillip Lopate:4:450
+add_book How to Spell Like a Champ:Barrie Trinkle:4:192
+add_book Bride and Groom - A Dog Lover's Mystery no 16:Susan Conant:4:262
+add_book Flush:Carl Hiaasen:4:263
+add_book Jonny Reb and Billy Yank:Alexander Hunter:4:635
+add_book To Have and to Hold:Jane Green:4:352
+add_book The Further Inquiry:Ken Kesey:4:215
+add_book The Three Musketeers - Classic Starts:Oliver Ho:4:151
+add_book Hickory Dickory Dock - Hercule Poirot no 32:Agatha Christie:4:196
+add_book Rachel se va de viaje - La familia Walsh no 2:Marian Keyes:4:595
+add_book The Soloist:Nicholas Christopher:3:320
+add_book The Mill on the Floss:George Eliot:4:579
+add_book Atonement:Ian McEwan:4:372
+add_book Artemis Fowl - Artemis Fowl no 1:Eoin Colfer:4:240
+add_book Slouching Toward Nirvana:Charles Bukowski:4:288
+add_book The Luzhin Defense:Vladimir Nabokov:4:256
+add_book Cast in Courtlight - Chronicles of Elantra no 2:Michelle Sagara:4:488
+add_book Broken Vessels:Andre Dubus:4:195
+add_book Muhammad - A Prophet for Our Time:Karen Armstrong:4:256
+add_book Black Ice - Ice no 1:Anne Stuart:4:377
+add_book Sons and Lovers:D.H. Lawrence:4:654
+add_book A Year in the Life of William Shakespeare - 1599:James Shapiro:4:333
+add_book Nicomachean Ethics:Aristotle:4:352
+add_book La conjura de los necios:John Kennedy Toole:4:462
+add_book Fox Evil:Minette Walters:4:400
+add_book A Man Without a Country:Kurt Vonnegut Jr.:4:160
+add_book If I Have a Wicked Stepmother Where's My Prince?:Melissa Kantor:4:283
+add_book Ariel - The Restored Edition:Sylvia Plath:4:256
+add_book The World Made Straight:Ron Rash:4:289
+add_book An Evening of Long Goodbyes:Paul Murray:4:448
+add_book The Lorax:Dr. Seuss:4:72
+add_book The Devil and Miss Prym - On the Seventh Day no 3:Paulo Coelho:4:205
+add_book Hope Springs Eternal - Prairie River no 4:Kristiana Gregory:4:176
+add_book The Promise:Chaim Potok:4:368
+add_book Noir - Three Novels of Suspense:Richard Matheson:4:385
+add_book World's End - The Sandman no 8:Neil Gaiman:4:160
+add_book Special Topics in Calamity Physics:Marisha Pessl:4:514
+add_book Emma:Jane Austen:4:474
+add_book The Castle in the Forest:Norman Mailer:3:477
+add_book Selected Poems of Herman Melville:Herman Melville:4:512
+add_book Before Night Falls:Reinaldo Arenas:4:317
+add_book Dead Souls:Nikolai Gogol:4:445
+add_book Jitterbug Perfume:Tom Robbins:4:342
+add_book Dragon's Eye - Stonefort no 1:James A. Hetley:3:368
+add_book The Lion the Witch and the Wardrobe - Narnia:C.S. Lewis:4:189
+add_book King Dork - King Dork no 1:Frank Portman:4:344
+add_book Thirteen Moons:Charles Frazier:4:422
+add_book The Bourne Identity - Jason Bourne no 1:Robert Ludlum:4:566
+add_book Four Past Midnight:Stephen King:4:768
+add_book The Hollow Man:Dan Simmons:3:342
+add_book Switch on the Night:Ray Bradbury:4:40
+add_book Fates Worse Than Death:Kurt Vonnegut Jr.:4:240
+add_book The Non-Designer's Web Book:Robin P. Williams:4:335
+add_book I'll Be Seeing You:Mary Higgins Clark:4:307
+add_book Oedipus Rex - Greek and Latin Classics:Sophocles:4:214
+add_book The Canterbury Tales:Geoffrey Chaucer:3:504
+add_book 50 Great Curries of India:Camellia Panjabi:4:224
+add_book Lighthousekeeping:Jeanette Winterson:4:232
+add_book The Portable John Adams:John Adams:4:533
+add_book The Celestine Prophecy - An Experiential Guide:James Redfield:4:304
+add_book The Martians - Mars Trilogy no 3.5:Kim Stanley Robinson:4:434
+add_book V.S. Naipaul:Bruce Alvin King:2:240
+add_book Time for the Stars - Heinlein's Juveniles no 10:Robert A. Heinlein:4:256
+add_book One Step Behind - Kurt Wallander no 7:Henning Mankell:4:450
+add_book Break In - Kit Fielding no 1:Dick Francis:4:320
+add_book The Vital Illusion:Jean Baudrillard:4:96
+add_book Goldfinger - James Bond no 7:Ian Fleming:4:264
+add_book Dr. Seuss's ABC:Dr. Seuss:4:21
+add_book Cypress Gardens - Images of America - Florida:Mary M. Flekke:3:128
+add_book Ritual Sins:Anne Stuart:4:396
+add_book The Rule of Four:Ian Caldwell:3:450
+add_book Rob Roy:Walter Scott:4:576
+add_book Six Degrees of Separation:John Guare:4:74
+add_book Forgiven - Firstborn no 2:Karen Kingsbury:4:358
+add_book The State of the Art:Iain M. Banks:4:188
+add_book The Chase - Deed no 3:Lynsay Sands:4:374
+add_book Exit Strategy - Nadia Stafford no 1:Kelley Armstrong:4:480
+add_book FINAL FANTASY X Official Strategy Guide:Dan Birlew:4:272
+add_book The Working Poor - Invisible in America:David K. Shipler:4:352
+add_book Deerskin:Robin McKinley:4:384
+add_book Winter Days in the Big Woods:Laura Ingalls Wilder:4:32
+add_book Final Payments:Mary Gordon:4:304
+add_book Yakitate!! Japan Volume 1:Takashi Hashiguchi:4:208
+add_book Tolkien - The Illustrated Encyclopaedia:David Day:4:288
+add_book Billy Budd Sailor:Herman Melville:3:230
+add_book The Winter of Our Discontent:John Steinbeck:4:336
+add_book Tar Baby:Toni Morrison:4:320
+add_book The Wall of the Sky the Wall of the Eye:Jonathan Lethem:4:304
+add_book Wenn Engel fallen:Tracy Chevalier:4:384
+add_book Crown of Stars - Crown of Stars no 7:Kate Elliott:4:609
+add_book The Trolley Car Family:Eleanor Clymer:4:256
+add_book Dragonsong - Pern - Harper Hall no 1:Anne McCaffrey:4:176
+add_book Spring Music:Elvi Rhodes:4:464
+add_book The Second Time Around:Mary Higgins Clark:4:373
+add_book One Two Buckle My Shoe - Hercule Poirot no 23:Agatha Christie:4:0
+add_book Old Filth - Old Filth no 1:Jane Gardam:4:290
+add_book Doom Patrol Vol. 5 - Magic Bus:Grant Morrison:4:203
+add_book The Last Christmas of Ebenezer Scrooge:Marvin Kaye:4:168
+add_book Death of an Expert Witness - Adam Dalgliesh no 6:P.D. James:4:306
+add_book Chronicles - Volume One:Bob Dylan:4:320
+add_book The Bachman Books:Richard Bachman:4:704
+add_book Young Warriors - Stories of Strength:Tamora Pierce:4:312
+add_book Getting Rid of Bradley:Jennifer Crusie:4:248
+add_book Sacrament:Clive Barker:4:594
+add_book The Years of Rice and Salt:Kim Stanley Robinson:4:763
+add_book Rachel's Holiday - Walsh Family no 2:Marian Keyes:4:578
+add_book The Moon Lady:Amy Tan:4:32
+add_book Interlopers:Alan Dean Foster:3:313
+add_book You Can't Go Home Again:Thomas Wolfe:4:711
+add_book The Dragon's Eye - Dragonology Chronicles no 1:Dugald A. Steer:4:221
+add_book The Cambridge Companion to Schopenhauer:Christopher Janaway:4:494
+add_book Orville - A Dog Story:Haven Kimmel:4:32
+add_book A Short History of World War I:James L. Stokesbury:4:352
+add_book What to Expect the First Year - What to Expect:Heidi Murkoff:4:832
+add_book Three Case Histories:Sigmund Freud:4:282
+add_book Picture This:Joseph Heller:4:352
+add_book The Man Who Smiled - Kurt Wallander no 4:Henning Mankell:4:325
+add_book The Odes:Pindar:4:256
+add_book A Tourist Guide to Lancre:Terry Pratchett:4:32
+add_book Job - A Comedy of Justice:Robert A. Heinlein:4:439
+add_book Yeats ist tot!:Joseph O'Connor:3:332
+add_book Catwings - Catwings no 1:Ursula K. Le Guin:4:40
+add_book The Martian Chronicles:Ray Bradbury:4:259
+add_book Notes from a Small Island:Bill Bryson:4:324
+add_book Ape and Essence:Aldous Huxley:4:222
+add_book The Changeling Sea:Patricia A. McKillip:4:137
+add_book Chester:Syd Hoff:4:64
+add_book Frankenstein Makes a Sandwich:Adam Rex:4:40
+add_book Strange Attractors:William Sleator:4:176
+add_book JLA Vol. 14 - Trial by Fire:Joe Kelly:4:144
+add_book The Flight of Icarus:Raymond Queneau:4:191
+add_book Betcha Can't Read Just One:Alan Dean Foster:4:242
+add_book The Burning - Guardians of Ga'Hoole no 6:Kathryn Lasky:4:224
+add_book Wanderlust - A History of Walking:Rebecca Solnit:4:326
+add_book Conversations with Don DeLillo:Don DeLillo:4:183
+add_book The King of Torts:John Grisham:4:276
+add_book Mumbo Jumbo:Ishmael Reed:4:292
+add_book Scandalous Risks:Susan Howatch:4:480
+add_book Language and Mind:Noam Chomsky:4:190
+add_book Forest Mage - Soldier Son no 2:Robin Hobb:3:718
+add_book Healing Therapies for Overcoming Insomnia:Peter Van Houten:4:175
+add_book Trials of Death - Cirque Du Freak no 5:Darren Shan:4:202
+add_book Empire - Empire no 1:Orson Scott Card:3:352
+add_book The Code of the Woosters - Jeeves to the Rescue:P.G. Wodehouse:4:7
+add_book The Artist of the Missing:Paul La Farge:4:256
+add_book Season of Mists - The Sandman no 4:Neil Gaiman:5:217
+add_book Everything on a Waffle - Coal Harbour no 1:Polly Horvath:4:150
+add_book Paris - The Secret History:Andrew Hussey:4:485
+add_book The Feynman Lectures on Physics Vols 7-8:Richard P. Feynman:5:0
+add_book The Best Stories of Fyodor Dostoevsky:Fyodor Dostoyevsky:4:352
+add_book JLA Vol. 14 - Trial by Fire:Joe Kelly:4:144
+add_book Citizen Girl:Emma McLaughlin:2:305
+add_book The Littles and the Lost Children:John Lawrence Peterson:4:112
+add_book When She Was Good:Philip Roth:4:320
+add_book Penguin Book Of Norse Myths - Gods Of The Vikings:Kevin Crossley-Holland:4:276
+add_book Cover Her Face - Adam Dalgliesh no 1:P.D. James:4:250
+add_book Novels 1926-1929:William Faulkner:4:1180
+add_book The Gospel of the Flying Spaghetti Monster:Bobby Henderson:4:169
+add_book 1000 Record Covers:Michael Ochs:4:575
+add_book Memoirs of Hadrian:Marguerite Yourcenar:4:347
+add_book Nature Girl:Carl Hiaasen:4:306
+add_book The Hand of Chaos - The Death Gate Cycle no 5:Margaret Weis:4:446
+add_book In a Dry Season - Inspector Banks no 10:Peter Robinson:4:480
+add_book Follow Your Heart:Susanna Tamaro:4:208
+add_book Five Patients:Michael Crichton:3:204
+add_book Days - A Tangier Diary:Paul Bowles:3:128
+add_book The World the Text and the Critic:Edward W. Said:4:336
+add_book The Metamorphoses of Ovid:Ovid:4:559
+add_book Daisy Bates - Civil Rights Crusader from Arkansas:Grif Stockley:4:340
+add_book Thirteen Moons on Turtle's Back:Joseph Bruchac:4:32
+add_book Trial by Fire - Newpointe 911 no 4:Terri Blackstock:4:347
+add_book The Beatles Complete - Updated Edition:The Beatles:4:303
+add_book The Short Stories Vol 3:Ernest Hemingway:4:5
+add_book Children Playing Before a Statue of Hercules:David Sedaris:4:344
+add_book Summa Theologica 5 Vols:Thomas Aquinas:4:3020
+add_book Legacy of the Dead - Inspector Ian Rutledge no 4:Charles Todd:4:356
+add_book Sparrow Hawk Red:Ben Mikaelsen:4:185
+add_book Happy Times in Noisy Village:Astrid Lindgren:4:128
+add_book All About Love - New Visions:bell hooks:4:240
+add_book Divine By Mistake - Partholon no 1:P.C. Cast:4:701
+add_book Citizen of the Galaxy:Robert A. Heinlein:4:288
+add_book 7 Steps to Midnight:Richard Matheson:3:320
+add_book How to Think Theologically:Howard W. Stone:4:142
+add_book The Collected Poetry 1968-1998:Nikki Giovanni:4:512
+add_book Hard Candy:Angela Knight:4:350
+add_book It's Not About the Bike - My Journey Back to Life:Lance Armstrong:4:294
+add_book Mutants - On Genetic Variety and the Human Body:Armand Marie Leroi:4:448
+add_book Vegas Bites - A Werewolf Romance Anthology:L.A. Banks:4:346
+add_book Oxford Guides to Chaucer - The Canterbury Tales:Helen Cooper:4:456
+add_book EULIS! The History of Love:Paschal Beverly Randolph:4:144
+add_book Iceland - Land of the Sagas:David Roberts:4:160
+add_book The I Ching or Book of Changes:Richard Wilhelm:4:739
+add_book Mother of Pearl:Melinda Haynes:4:465
+add_book Exclusive:Sandra Brown:4:496
+add_book Naked Empire - Sword of Truth no 8:Terry Goodkind:4:736
+add_book Ella Minnow Pea - A Novel in Letters:Mark Dunn:4:208
+add_book Crazy For You:Jennifer Crusie:4:336
+add_book The Enchanted Castle:E. Nesbit:4:291
+add_book Bill Bryson's African Diary:Bill Bryson:3:55
+add_book Going After Cacciato:Tim O'Brien:4:351
+add_book Winter of Magic's Return:Pamela F. Service:4:194
+add_book Corvette:Jerry Burton:5:320
+add_book Schott's Original Miscellany:Ben Schott:4:158
+add_book The Only Dance There Is:Ram Dass:4:192
+add_book Awakening - Chasing Yesterday no 1:Robin Wasserman:4:207
+add_book The Return of the Native:Thomas Hardy:4:448
+add_book Pioneer Girl - The Story of Laura Ingalls Wilder:William Anderson:4:32
+add_book Murder in the Cathedral:T.S. Eliot:4:148
+add_book Into the Woods - De Beers no 4:V.C. Andrews:4:464
+add_book Li Po and Tu Fu - Poems:Li Bai:4:256
+add_book Henri Rousseau - Jungles in Paris:Christopher Green:4:230
+add_book The Complete Tales of Nikolai Gogol Volume 1:Nikolai Gogol:4:302
+add_book Valparaiso:Don DeLillo:3:107
+add_book The Ice Storm:Rick Moody:4:288
+add_book Erlauterungen Zu Max Frisch Homo Faber:Bernd Matzkowski:4:104
+add_book The Franco-Prussian War:Michael Eliot Howard:4:532
+add_book My Antonia - Great Plains trilogy no 3:Willa Cather:4:314
+add_book The Maiden - The Morland Dynasty no 8:Cynthia Harrod-Eagles:4:413
+add_book Love With the Proper Husband - Effingtons no 6:Victoria Alexander:4:358
+add_book Mighty Love:Howard Chaykin:3:96
+add_book The Magus:John Fowles:4:656
+add_book Three Novels and Five Short Stories:Daphne du Maurier:4:677
+add_book Paris to the Moon:Adam Gopnik:4:368
+add_book Abandonment:Kate Atkinson:4:96
+search_by_author Edward Bulwer-Lytton:The Last Days of Pompeii
+search_by_author Paul Auster:Ghosts - The New York Trilogy no 2
+search_by_author Karen Kingsbury:Forgiven - Firstborn no 2
+search_by_author Richard Matheson:7 Steps to Midnight
+search_by_author Tara MacCarthy:Literature Circle Guide - A Wrinkle in Time
+search_by_author Tim O'Brien:Going After Cacciato
+search_by_author Charles Todd:A Long Shadow - Inspector Ian Rutledge no 8
+search_by_author Rohinton Mistry:A Fine Balance
+search_by_author Nicholas Christopher:The Soloist
+search_by_author Steven Pressfield:Gates of Fire
+search_by_author Kate Atkinson:Abandonment
+search_by_author Melinda Haynes:Mother of Pearl
+search_by_author Agatha Christie:Hickory Dickory Dock - Hercule Poirot no 32
+search_by_author Anne McCaffrey:Changelings
+search_by_author Martin Amis:Success
+search_by_author James Tiptree Jr.:The Starry Rift
+search_by_author Radclyffe:A Matter of Trust - Justice no 0
+search_book The Black Dahlia - L.A. Quartet no 1
+search_book The Hollow Man
+search_book The Three Musketeers - Classic Starts
+search_book The Martians - Mars Trilogy no 3.5
+search_book Myth and Reality
+search_book Cuba 15
+search_book Hercule Poirot's Casebook - Hercule Poirot no 42
+search_book Goldfinger - James Bond no 7
+search_book Jean-Paul Sartre - - The Giants of Philosophy
+search_book Exclusive
+search_book Rachel se va de viaje - La familia Walsh no 2
+search_book Decider
+search_book Caligula and Three Other Plays
+search_book The Handmaid's Tale
+search_book Summa Theologica 5 Vols
+search_book Harrison's Principles of Internal Medicine
+search_book Death by Black Hole - And Other Cosmic Quandaries
+search_book Hope Springs Eternal - Prairie River no 4
+search_book P. J. Funnybunny Camps Out
+search_book Awakening - Chasing Yesterday no 1
+search_book Going on Being - Buddhism and the Way of Change
+search_book The Short Stories Vol 3
+search_book The State of the Art
+search_book The Centurion's Empire
+search_book If Beale Street Could Talk
+search_book Language and Mind
+search_book Strange Attractors
+search_book All the King's Men - Three Stage Versions
+search_book Born to Be Wild
+search_book Tanglewreck
+add_book Clea - The Alexandria Quartet no 4:Lawrence Durrell:4:288
+add_book The Drifters:James A. Michener:4:768
+add_book The Portable James Joyce:James Joyce:4:762
+add_book Excession - Culture no 5:Iain M. Banks:4:499
+add_book Before the Mayflower - A History of Black America:Lerone Bennett Jr.:4:796
+add_book The Creation of the American Republic 1776-1787:Gordon S. Wood:4:675
+add_book Revolutionary Girl Utena Vol. 4 - To Bud:Chiho Saito:4:192
+add_book Standing in the Rainbow - Elmwood Springs no 2:Fannie Flagg:4:560
+add_book Mr. Murder:Dean Koontz:4:493
+add_book How to Be Popular:Meg Cabot:4:288
+add_book Peony in Love:Lisa See:4:273
+add_book Peking to Paris:Luigi Barzini:4:308
+add_book The Collected Stories of Isaac Bashevis Singer:Isaac Bashevis Singer:4:624
+add_book The Vampire Lestat - The Vampire Chronicles no 2:Anne Rice:4:481
+add_book The Short Stories of Ernest Hemingway:Ernest Hemingway:4:499
+add_book Warren G. Harding - The American Presidents no 29:John W. Dean:4:202
+add_book Ishmael - Star Trek - The Original Series no 23:Barbara Hambly:4:256
+add_book The Salmon of Doubt - Dirk Gently no 3:Douglas Adams:4:298
+add_book The Last Jew:Noah Gordon:4:352
+add_book Live Rich Die Broke:Stephen M. Pollan:3:482
+add_book Death on the Nile - Hercule Poirot no 17:Agatha Christie:4:351
+add_book The Spell:Alan Hollinghurst:4:272
+add_book The Big Sleep - Philip Marlowe no 1:Raymond Chandler:4:231
+add_book The Used World:Haven Kimmel:4:308
+add_book Culture Shock! Laos - Culture Shock!:Stephen Mansfield:3:220
+add_book Golden Buddha - Oregon Files no 1:Clive Cussler:4:527
+add_book Tsubasa - RESERVoir CHRoNiCLE Vol. 3:CLAMP:4:196
+add_book The Wit and Wisdom of Winston Churchill:James C. Humes:4:256
+add_book Paris - After the Liberation 1944-1949:Antony Beevor:4:464
+add_book On the Street Where You Live:Mary Higgins Clark:4:387
+add_book One Tiny Turtle:Nicola Davies:4:32
+add_book The Golden Notebook:Doris Lessing:4:640
+add_book Scarlet Feather:Maeve Binchy:4:549
+add_book Les Miserables - Stepping Stones:Monica Kulling:4:112
+add_book Disaster! - Catastrophes That Shook the World:Richard Bonson:4:63
+add_book Head Over Heels:Jill Mansell:4:448
+add_book The English Novel - An Introduction:Terry Eagleton:4:376
+add_book The Red Badge of Courage and Four Stories:Stephen Crane:3:240
+add_book The Avalanche Handbook:David McClung:4:342
+add_book Grendel - Devil by the Deed:Matt Wagner:4:48
+add_book Early Candlelight:Maud Hart Lovelace:4:342
+add_book Happy Birthday to You!:Dr. Seuss:4:64
+add_book The Twelve Dancing Princesses:Marianna Mayer:4:40
+add_book A Kiss Before Dying:Ira Levin:4:242
+add_book The Invisible Child:Katherine Paterson:4:266
+add_book For Keeps - 30 Years at the Movies:Pauline Kael:4:1312
+add_book Les Mandarins - Tome 2:Simone de Beauvoir:4:500
+add_book False Colours:Georgette Heyer:4:303
+add_book Working with Emotional Intelligence:Daniel Goleman:4:400
+add_book Serenissima aka Shylock's Daughter:Erica Jong:3:384
+add_book Eugene Onegin Vol. II - Commentary:Alexander Pushkin:4:1056
+add_book Norwegian Wood:Haruki Murakami:4:296
+add_book Power - Die 48 Gesetze Der Macht:Robert Greene:4:536
+add_book The Brief and Frightening Reign of Phil:George Saunders:4:130
+add_book Around the World in Eighty Days:Jules Verne:4:236
+add_book Setting Free the Bears:John Irving:3:304
+add_book The New Mutants Classic Vol. 1:Chris Claremont:4:240
+add_book I Love Saturdays y domingos:Alma Flor Ada:4:32
+add_book Death - The High Cost of Living:Neil Gaiman:4:104
+add_book Omega Path - Outlanders no 4:James Axler:4:352
+add_book The Gods Themselves:Isaac Asimov:4:288
+add_book Oh Say Can You Say?:Dr. Seuss:4:36
+add_book They Do It With Mirrors:Agatha Christie:4:7
+add_book Desert Children:Waris Dirie:4:240
+add_book The Mill on the Floss:George Eliot:4:579
+add_book This Alien Shore:C.S. Friedman:4:564
+add_book 100 Love Sonnets:Pablo Neruda:4:232
+add_book On Beyond Zebra!:Dr. Seuss:4:64
+add_book In the Hand of Dante:Nick Tosches:3:384
+add_book Gerald's Game:Stephen King:4:332
+add_book Straight:Dick Francis:4:320
+add_book Poor People:William T. Vollmann:4:434
+add_book A Walk in the Woods - Stickerific:Walt Disney Company:4:16
+add_book Who Are You? - 101 Ways of Seeing Yourself:Malcolm Godwin:3:224
+add_book Anybody Out There? - Walsh Family no 4:Marian Keyes:4:456
+add_book The Overcoat and Other Short Stories:Nikolai Gogol:4:103
+add_book The Battle Of Corrin - Legends of Dune no 3:Brian Herbert:4:624
+add_book Toujours Provence:Peter Mayle:4:241
+add_book Danny The Champion of the World:Roald Dahl:4:196
+add_book Walking the World in Wonder - A Children's Herbal:Ellen Evert Hopman:4:160
+add_book Stormie - A Story of Forgiveness and Healing:Stormie Omartian:4:192
+add_book The Collected Stories of Arthur C. Clarke:Arthur C. Clarke:4:966
+add_book Death of a Scriptwriter - Hamish Macbeth no 14:M.C. Beaton:4:198
+add_book Sleeping in Flame - Answered Prayers no 2:Jonathan Carroll:4:304
+add_book Use of Weapons:Iain M. Banks:4:389
+add_book The Impostor - Liar's Club no 2:Celeste Bradley:4:369
+add_book The Interpreter:Suki Kim:4:304
+add_book Cat's Cradle - Cat no 1:William W. Johnstone:4:412
+add_book The Ghost Stories of Edith Wharton:Edith Wharton:4:303
+add_book Akhenaten - Dweller in Truth:Naguib Mahfouz:4:168
+add_book Broken Prey - Lucas Davenport no 16:John Sandford:4:481
+add_book Operation Wandering Soul:Richard Powers:4:352
+add_book A Beautiful Mind:Sylvia Nasar:4:461
+add_book Chance - Spenser no 23:Robert B. Parker:4:4
+add_book Innocent Blood:P.D. James:4:400
+add_book El azul de la virgen:Tracy Chevalier:4:411
+add_book A Streetcar Named Desire:Tennessee Williams:4:107
+add_book Forever - Firstborn no 5:Karen Kingsbury:4:346
+add_book Talk Talk:T. Coraghessan Boyle:3:340
+add_book Wild Things - Four Tales:Douglas Clegg:4:97
+add_book The Books of Magic:Neil Gaiman:4:200
+add_book Becoming a Woman of Beauty and Strength - Esther:Elizabeth George:4:160
+add_book God of Tarot - Tarot no 1:Piers Anthony:3:288
+add_book Princess Sultana's Daughters:Jean Sasson:4:229
+add_book Bleach Volume 13:Tite Kubo:4:208
+add_book The Stars at Noon:Denis Johnson:4:192
+add_book Strawberry Shortcake Murder - Hannah Swensen no 2:Joanne Fluke:4:320
+add_book Spider Mountain - Cam Richter no 2:P.T. Deutermann:4:309
+add_book Yeats Is Dead:Roddy Doyle:3:298
+add_book World of Warcraft Atlas:Brady Games:4:192
+add_book Deep Storm - Jeremy Logan no 1:Lincoln Child:4:370
+add_book The Winthrop Woman:Anya Seton:4:588
+add_book The Feminine Mystique:Betty Friedan:4:592
+add_book For Whom The Bell Tolls:Ernest Hemingway:4:490
+add_book The Various:Steve Augarde:4:448
+add_book Excession - Culture no 5:Iain M. Banks:4:499
+add_book The Van - The Barrytown Trilogy no 3:Roddy Doyle:4:320
+add_book Main Street:Sinclair Lewis:4:560
+add_book Paradise Lost:John Milton:4:453
+add_book Danse Macabre:Stephen King:4:400
+add_book Transmetropolitan Vol. 8 - Dirge:Warren Ellis:4:140
+add_book The Brief History of the Dead:Kevin Brockmeier:4:252
+add_book The River:Rumer Godden:4:128
+add_book Canada's Incredible Coasts:Donald J. Crump:4:199
+add_book There's a Spiritual Solution to Every Problem:Wayne W. Dyer:4:288
+add_book The Elephant Vanishes:Haruki Murakami:4:327
+add_book The Promise of Rest:Reynolds Price:4:368
+add_book Drat! We're Rats! - Scrambled Legs no 1:Jahnna N. Malcolm:4:160
+add_book PS I Love You Baby Collection:Lynda Milligan:4:79
+add_book 1599 - A Year in the Life of William Shakespeare:James Shapiro:4:429
+add_book The Cursed One - Wild Wulfs of London no 3:Ronda Thompson:4:305
+add_book The Master Mind of Mars - Barsoom no 6:Edgar Rice Burroughs:4:160
+add_book Battle for the Planet of the Apes:David Gerrold:4:158
+add_book Da Vinci Code - Robert Langdon no 2:Dan Brown:4:744
+add_book Thinking Visually - Basics Illustration no 1:Mark Wigan:4:184
+add_book A Virtuous Woman:Kaye Gibbons:4:165
+add_book Two for the Dough - Stephanie Plum no 2:Janet Evanovich:4:325
+add_book The Bean Trees - Greer Family no 1:Barbara Kingsolver:4:232
+add_book Tsubasa - RESERVoir CHRoNiCLE Vol. 09:CLAMP:4:184
+add_book Burt Dow Deep-Water Man:Robert McCloskey:4:64
+add_book Travels in Hyperreality:Umberto Eco:4:324
+add_book Spring Music:Elvi Rhodes:4:464
+add_book Black Like Me:John Howard Griffin:4:208
+add_book The Last Shot - City Streets Basketball Dreams:Darcy Frey:4:233
+add_book Four Mothers at Chautuaqua:Pansy:4:265
+add_book Driving Force:Dick Francis:4:384
+add_book Shadows At Sunset:Anne Stuart:4:384
+add_book Who Was John F. Kennedy?:Yona Zeldis McDonough:4:112
+add_book The spire William Golding - notes:Steve Eddy:4:135
+add_book Being and Nothingness:Jean-Paul Sartre:4:688
+add_book The Deeper Meaning of Liff:Douglas Adams:4:192
+add_book The Curious Sofa:Edward Gorey:4:64
+add_book Cry the Beloved Country:Alan Paton:4:316
+add_book Mac OS X - Tiger Edition - The Missing Manual:David Pogue:4:864
+add_book Ocean of Words:Ha Jin:4:205
+add_book Mysteria - Mysteria no 1:MaryJanice Davidson:4:340
+add_book Women Who Love Too Much:Robin Norwood:4:314
+add_book Fablehaven - Fablehaven no 1:Brandon Mull:4:351
+add_book Cumbres borrascosas:Emily Bronte:4:384
+add_book Shakespeare's Romeo and Juliet:William Shakespeare:4:231
+add_book La princesa prometida:William Goldman:4:480
+add_book The Fountainhead:Ayn Rand:4:752
+add_book Never Go Back:Robert Goddard:4:464
+add_book The Serial Killers Club:Jeff Povey:3:279
+add_book The Pursuit of Happyness:Chris Gardner:4:320
+add_book When Nietzsche Wept:Irvin D. Yalom:4:310
+add_book Kissing the Beehive - Crane's View no 1:Jonathan Carroll:4:256
+add_book The Invisible Writing:Arthur Koestler:4:544
+add_book Bachelor Brothers' Bed and Breakfast Pillow Book:Bill Richardson:4:208
+add_book Step on a Crack - Michael Bennett no 1:James Patterson:4:383
+add_book A Preface to Democratic Theory:Robert A. Dahl:4:200
+add_book Transmetropolitan Vol. 2 - Lust for Life:Warren Ellis:4:208
+add_book 1421 - The Year China Discovered America:Gavin Menzies:4:650
+add_book A History of the Life Sciences:Lois N. Magner:5:514
+add_book More Plums in One - Stephanie Plum no 4-6:Janet Evanovich:4:792
+add_book The Namesake:Jhumpa Lahiri:4:291
+add_book Watchtower - Chronicles of Tornor no 1:Elizabeth A. Lynn:4:224
+add_book Boy Were We Wrong About Dinosaurs!:Kathleen V. Kudlinski:4:32
+list_author Bonnie Burton
+list_author William Gibson
+list_author Joseph Bruchac
+list_author Joseph Frank
+list_author Howard Chaykin
+list_author Mark Waid
+list_author Brian Sibley
+list_author P.C. Cast
+list_author Dante Alighieri
+list_author Albert Einstein
+search_by_author Paulo Coelho:By the River Piedra I Sat Down and Wept
+search_by_author Ira Levin:A Kiss Before Dying
+search_by_author Terry Eagleton:The English Novel - An Introduction
+search_by_author Tish Boyle:The Cake Book
+search_by_author V.C. Andrews:Into the Woods - De Beers no 4
+search_by_author Mark Dunn:Ella Minnow Pea - A Novel in Letters
+search_by_author Luigi Pirandello:One No One and One Hundred Thousand
+search_by_author Chimamanda Ngozi Adichie:Half of a Yellow Sun
+search_by_author Peter S. Beagle:The Last Unicorn
+search_by_author Grant Morrison:Kid Eternity
+list_author Walter Kirn
+list_author Linda Turner
+list_author Robin Norwood
+list_author Brian J. Robb
+list_author Takashi Hashiguchi
+list_author Noah Gordon
+search_book Affliction
+search_book Wanderlust - A History of Walking
+search_book Bonecrack
+search_book The Art of Warfare
+search_book Paris - After the Liberation 1944-1949
+search_book On Beyond Zebra!
+search_book Atonement
+search_book 50 Great Curries of India
+search_book Glass Soup - Vincent Ettrich no 2
+search_book The Pilgrim's Regress
+search_book Lisey's Story
+search_book Old Filth - Old Filth no 1
+search_book The Serpent's Shadow - Elemental Masters no 1
+search_book Akhenaten - Dweller in Truth
+search_book Richard III
+search_book Sons and Lovers
+search_book Forgiven - Firstborn no 2
+search_book Velocity
+search_book A Short History of World War I
+search_book Les Mandarins - Tome 2
+search_book Mike Nelson's Death Rat!
+search_book The Master of Go
+search_by_author Laura Ingalls Wilder:Little Town on the Prairie - Little House no 7
+search_by_author Herman Wouk:Marjorie Morningstar
+search_by_author V.S. Naipaul:Half a Life
+search_by_author Susan Conant:Bride and Groom - A Dog Lover's Mystery no 16
+search_by_author J.V. Jones:A Cavern of Black Ice - Sword of Shadows no 1
+search_by_author Robert A. Heinlein:Citizen of the Galaxy
+search_by_author Agatha Christie:Hickory Dickory Dock - Hercule Poirot no 32
+search_by_author Armistead Maupin:Michael Tolliver Lives - Tales of the City no 7
+search_by_author Bob Dylan:Chronicles - Volume One
+search_by_author David D. Burns:Ten Days to Self-Esteem
+search_by_author Isaac Asimov:The Currents of Space - Galactic Empire no 2
+search_by_author Emma McLaughlin:Citizen Girl
+search_by_author Neil Gaiman:The Books of Magic
+search_by_author Bill Cosby:The Meanest Thing To Say
+search_by_author Ha Jin:Ocean of Words
+add_book The Rules of Attraction:Bret Easton Ellis:4:283
+add_book Liars and Saints:Maile Meloy:4:272
+add_book Nexus - The Rosy Crucifixion no 3:Henry Miller:4:316
+add_book What Do You Care What Other People Think?:Richard P. Feynman:4:256
+add_book The Gospel of the Flying Spaghetti Monster:Bobby Henderson:4:169
+add_book Man Who Tricked a Ghost:Laurence Yep:4:32
+add_book Sister Outsider - Essays and Speeches:Audre Lorde:4:190
+add_book Lolita - The Screenplay:Vladimir Nabokov:4:240
+add_book La Petite Fille du Lac:Christina Schwarz:4:363
+add_book Moon of the Spider - Diablo no 4:Richard A. Knaak:4:336
+add_book Les Mandarins - Tome 2:Simone de Beauvoir:4:500
+add_book Double Love - Sweet Valley High no 1:Francine Pascal:4:182
+add_book A Pinch of Snuff - Dalziel and Pascoe no 5:Reginald Hill:4:336
+add_book Eyes of Prey - Lucas Davenport no 3:John Sandford:4:358
+add_book Utena - Revolutionary Girl 01:Chiho Saito:4:192
+add_book The Drowned and the Saved:Primo Levi:4:170
+add_book Beatrix Potter - A Life in Nature:Linda Lear:4:584
+add_book Star Wars - The New Essential Guide to Characters:Daniel Wallace:4:224
+add_book Topsail Island - Mayberry by the Sea:Ray McAllister:4:228
+add_book Every Which Way But Dead - The Hollows no 3:Kim Harrison:4:501
+add_book Picture Perfect:Jodi Picoult:4:369
+add_book Bad Dreams:Kim Newman:3:280
+add_book Paradise Lost and Paradise Regained:John Milton:4:357
+add_book Little Miss Birthday:Roger Hargreaves:4:32
+add_book A Beautiful Mind:Sylvia Nasar:4:461
+add_book Coach - Lessons on the Game of Life:Michael Lewis:4:96
+add_book The Clicking of Cuthbert:P.G. Wodehouse:4:162
+add_book Spring's Awakening:Frank Wedekind:4:126
+add_book The Eiger Sanction - Jonathan Hemlock no 1:Trevanian:4:336
+add_book Mysteries:Knut Hamsun:4:313
+add_book Une vie de reve:Marian Keyes:4:593
+add_book The Protector - Cavanaugh no 1:David Morrell:4:401
+add_book The Children of Hurin:J.R.R. Tolkien:4:313
+add_book Interstellar Pig - Interstellar Pig no 1:William Sleator:4:200
+add_book Doctor Copernicus - The Revolutions Trilogy no 1:John Banville:4:242
+add_book War and the Iliad:Simone Weil:4:121
+add_book The Puritan Dilemma - The Story of John Winthrop:Edmund S. Morgan:3:210
+add_book Hundred-Dollar Baby - Spenser no 34:Robert B. Parker:4:0
+add_book Reptiles and Amphibians - Smithsonian Handbooks:Mark O'Shea:4:256
+add_book Three Plums In One - Stephanie Plum no 1-3:Janet Evanovich:4:1016
+add_book El diablo de la botella:Robert Louis Stevenson:4:77
+add_book Primo Levi - A Life:Ian Thomson:4:640
+add_book What Is the What:Dave Eggers:4:475
+add_book Jerusalem Inn - Richard Jury no 5:Martha Grimes:4:320
+add_book Speaker for the Dead - Ender's Saga no 2:Orson Scott Card:4:382
+add_book Reptiles and Amphibians - Smithsonian Handbooks:Mark O'Shea:4:256
+add_book Seminar on Nietzsche's Zarathustra:C.G. Jung:4:352
+add_book The Road:Cormac McCarthy:4:241
+add_book The Wizard of London - Elemental Masters no 4:Mercedes Lackey:4:384
+add_book False Colours:Georgette Heyer:4:303
+add_book Prince Caspian - Chronicles of Narnia no 4:C.S. Lewis:4:223
+add_book A Moveable Feast:Ernest Hemingway:4:192
+add_book A Fistful of Charms - The Hollows no 4:Kim Harrison:4:510
+add_book The Law and the Lady:Wilkie Collins:4:383
+add_book El Paso:Matt Braun:3:256
+add_book Hatchet - Brian's Saga no 1:Gary Paulsen:4:208
+add_book Tales:H.P. Lovecraft:4:838
+add_book Black Widow - The Things They Say About Her:Richard K. Morgan:3:144
+add_book The Witch Family:Eleanor Estes:4:240
+add_book Insects and Spiders:David Burnie:5:64
+add_book The Dain Curse:Dashiell Hammett:4:256
+add_book Floaters:Joseph Wambaugh:4:291
+add_book Der Golem:Isaac Bashevis Singer:4:64
+add_book The Second World War:Winston S. Churchill:4:4736
+add_book A Stroke of Midnight - Merry Gentry no 4:Laurell K. Hamilton:4:385
+add_book Seven Men and Two Others:Max Beerbohm:4:288
+add_book Collected Stories Vol. 2:Richard Matheson:4:453
+add_book Richard Matheson's Hell House Book 1:Ian Edginton:4:48
+add_book The Counterlife:Philip Roth:4:336
+add_book Four and Twenty Blackbirds - Bardic Voices no 4:Mercedes Lackey:4:423
+add_book A Case of Need:Jeffery Hudson:4:416
+add_book Nathaniel Hawthorne's The Scarlet Letter:Nathaniel Hawthorne:3:240
+add_book Superman - Back in Action:Kurt Busiek:3:144
+add_book Manhunt:Janet Evanovich:4:219
+add_book Tiger Prince:Erin St. Claire:4:304
+add_book Fractal Mode - Mode no 2:Piers Anthony:4:344
+add_book The Stranger:Albert Camus:4:154
+add_book The Essential Interviews:Bob Dylan:4:447
+add_book The Best of the Spirit:Will Eisner:4:187
+add_book Gatsby's Girl:Caroline Preston:4:312
+add_book The Barefoot Contessa Cookbook:Ina Garten:4:256
+add_book The 42nd Parallel - U.S.A. no 1:John Dos Passos:4:326
+add_book The Call of the Mall - How we shop:Paco Underhill:4:227
+add_book Superman - Up Up and Away!:Kurt Busiek:4:192
+add_book Diary of a Spider:Doreen Cronin:4:40
+add_book The Clicking of Cuthbert:P.G. Wodehouse:4:162
+add_book Mayflower - A Story of Courage Community and War:Nathaniel Philbrick:4:461
+add_book Starshield - Sentinels:Margaret Weis:4:421
+add_book Influence - The Psychology of Persuasion:Robert B. Cialdini:4:320
+add_book A Heartbreaking Work of Staggering Genius:Dave Eggers:4:485
+add_book The Laura Ingalls Wilder Country Cookbook:Laura Ingalls Wilder:4:160
+add_book The Favored Child - The Wideacre Trilogy no 2:Philippa Gregory:4:624
+add_book To Love a Dark Lord:Anne Stuart:4:409
+add_book The Time Traveler's Wife:Audrey Niffenegger:4:518
+add_book Dreamland:Sarah Dessen:4:250
+add_book The Birds - Methuen Drama:Sean O'Brien:3:96
+add_book Netochka Nezvanova:Fyodor Dostoyevsky:4:176
+add_book A Hundred Camels in the Courtyard:Paul Bowles:4:90
+add_book King Henry IV Part 1:William Shakespeare:4:398
+add_book The Vampire Companion:Katherine Ramsland:4:608
+add_book Seminole Song:Vella Munn:4:320
+add_book The Aeneid - Verse Translation:Virgil:4:368
+add_book Stone Tables:Orson Scott Card:4:448
+add_book I Claudius - Claudius no 1:Robert Graves:4:468
+add_book Thirst:Mary Oliver:4:88
+add_book The Brothers K:David James Duncan:4:645
+add_book Lamu - Urusei Yatsura 3:Rumiko Takahashi:4:416
+add_book The Family Idiot 5 - Gustave Flaubert 1821-1857:Jean-Paul Sartre:4:632
+add_book Crime and Punishment in American History:Lawrence M. Friedman:4:590
+add_book The Key to Midnight:Dean Koontz:4:419
+add_book The Legend of Luke - Redwall no 12:Brian Jacques:4:374
+add_book Math Fables:Greg Tang:4:40
+add_book Journeys in English:Bill Bryson:4:3
+add_book If I Die in a Combat Zone:Tim O'Brien:4:208
+add_book A Wild Sheep Chase - The Rat no 3:Haruki Murakami:4:353
+add_book The Rediscovery of Man:Cordwainer Smith:4:368
+add_book Advanced Statistics Demystified:Larry J. Stephens:4:324
+add_book Out to Eat London 2002 - Lonely Planet Out to Eat:Lonely Planet:0:295
+add_book The Harlequin - Anita Blake Vampire Hunter no 15:Laurell K. Hamilton:4:422
+add_book The Complete Sherlock Holmes Volume I:Arthur Conan Doyle:4:709
+add_book Love Mode Vol. 6:Yuki Shimizu:4:192
+add_book Interface:Neal Stephenson:4:640
+add_book A Christmas Carol and Other Christmas Writings:Charles Dickens:4:288
+add_book A Source Book in Indian Philosophy:Sarvepalli Radhakrishnan:4:720
+add_book Shadows and Wind - A View of Modern Vietnam:Robert Templer:3:400
+add_book Glass House:Philip Johnson:4:256
+add_book Status Anxiety:Alain de Botton:4:306
+add_book Adios Hemingway:Leonardo Padura:4:229
+add_book Be More Chill:Ned Vizzini:4:287
+add_book The Giver - The Giver no 1:Lois Lowry:4:208
+add_book The Complete Sherlock Holmes Volume I:Arthur Conan Doyle:4:709
+add_book Problems of Dostoevsky's Poetics:Mikhail Bakhtin:4:334
+add_book The Extraordinary Cases of Sherlock Holmes:Arthur Conan Doyle:4:277
+add_book Franz Kafka - The Complete Stories:Franz Kafka:4:486
+add_book Straight:Dick Francis:4:320
+add_book A Thread of Grace:Mary Doria Russell:4:442
+add_book Stable Strategies and Others:Eileen Gunn:4:208
+add_book Points in Time:Paul Bowles:4:96
+add_book Thank You Jeeves - Jeeves no 5:P.G. Wodehouse:4:263
+add_book The Complete Essays:Michel de Montaigne:4:1344
+add_book Tooth and Claw:T. Coraghessan Boyle:4:304
+add_book Nexus - The Rosy Crucifixion no 3:Henry Miller:4:316
+add_book Dark Water - Fog Point no 1:Linda Hall:4:354
+add_book Ethan Frome and Summer:Edith Wharton:4:274
+add_book Mila 18:Leon Uris:4:563
+add_book Clockwork - Cover to Cover:Philip Pullman:4:0
+add_book Vinyl Cafe Diaries - Vinyl Cafe no 4:Stuart McLean:4:302
+add_book My Woman His Wife:Anna J.:4:260
+add_book Ballet Class:John Green:4:48
+add_book Three Guineas:Virginia Woolf:4:352
+add_book Great Short Works of Fyodor Dostoevsky:Fyodor Dostoyevsky:4:768
+add_book Special Topics in Calamity Physics:Marisha Pessl:4:514
+add_book Women and Writing:Virginia Woolf:4:216
+add_book Winning with People Workbook:John C. Maxwell:4:256
+add_book Meeting God at Every Turn:Catherine Marshall:4:256
+add_book Thirteen Moons:Charles Frazier:4:422
+add_book The Delta Star:Joseph Wambaugh:4:291
+add_book The Crossing:Cormac McCarthy:4:425
+add_book My Name Is Asher Lev:Chaim Potok:4:369
+add_book Rebirth Volume 5:Kang-Woo Lee:4:184
+add_book Seven Plays:Sam Shepard:4:336
+add_book Narcissus and Goldmund:Hermann Hesse:4:288
+add_book This Rough Magic:Mary Stewart:4:373
+add_book The Road to Gandolfo:Robert Ludlum:4:320
+add_book The Invisible Writing:Arthur Koestler:4:544
+add_book The Treasured Writings of Kahlil Gibran:Kahlil Gibran:4:902
+add_book Black Lamb and Grey Falcon:Rebecca West:4:1181
+add_book Out of the Woods:Chris Offutt:4:176
+add_book A Scanner Darkly:Philip K. Dick:4:219
+add_book Gai-Jin - Asian Saga no 3:James Clavell:4:1236
+add_book Mr Tompkins in Paperback - Canto:George Gamow:4:202
+add_book Akhenaten - Dweller in Truth:Naguib Mahfouz:4:168
+list_author Charles Bukowski
+list_author Jhumpa Lahiri
+list_author William T. Quick
+list_author Marvin Kaye
+list_author Anne McCaffrey
+list_author Alan Aldridge
+list_author Geoffrey Batchen
+search_book The Future of Spacetime
+search_book A Caribbean Mystery - Miss Marple no 10
+search_book Pioneer Girl - The Story of Laura Ingalls Wilder
+search_book 100 Love Sonnets
+search_book One Two Buckle My Shoe - Hercule Poirot no 23
+search_book The Negro
+search_book Citizen of the Galaxy
+search_book Paris - After the Liberation 1944-1949
+search_book Pnin
+search_by_author Jeffery Deaver:Hard News - Rune no 3
+search_by_author Johann Wolfgang von Goethe:Die Leiden des Jungen Werther
+search_by_author Charles A. Coulombe:Vicars of Christ - A History of the Popes
+search_by_author Kurt Busiek:Superman - Back in Action
+search_by_author Anne Bronte:Agnes Grey
+search_by_author Joyce Carol Oates:The Assignation - Stories
+search_by_author Leon Uris:Mila 18
+search_by_author Geoffrey Chaucer:The Canterbury Tales
+search_by_author Libba Bray:A Great and Terrible Beauty - Gemma Doyle no 1
+search_by_author Sandra Brown:Adam's Fall - Mason Sisters no 2
+search_by_author William Gibson:All Tomorrow's Parties - Bridge no 3
+search_by_author Paula Danziger:Amber Brown Is Not a Crayon
+search_by_author Neil Gaiman:The Books of Magic
+search_by_author Brenda Joyce:A Lady At Last - deWarenne Dynasty no 7
+search_by_author Elvi Rhodes:Spring Music
+list_author Audre Lorde
+list_author James Patterson
+list_author Dan Hitt
+list_author Erica Jong
+list_author John Dos Passos
+list_author Robert Hellenga
+list_author Douglas Adams
+list_author Philip Roth

@@ -1,0 +1,37 @@
+add_book Collected Stories:Roald Dahl:4:850
+add_book Sense and Sensibility:Jane Austen:4:269
+add_book The Trial of Henry Kissinger:Christopher Hitchens:4:161
+add_book Lady of the Lake:Elizabeth Mayne:3:304
+add_book Tolkien - The Illustrated Encyclopaedia:David Day:4:288
+add_book Confessions of an Ugly Stepsister:Gregory Maguire:4:372
+add_book Dale Loves Sophie to Death:Robb Forman Dew:3:256
+add_book Amelia Bedelia Helps Out:Peggy Parish:4:64
+add_book Gunnm Last Order Tome 01:Yukito Kishiro:4:200
+add_book Ballet and Modern Dance:Susan Au:4:224
+add_book The Mysteries of Pittsburgh:Michael Chabon:4:320
+add_book They Came from Below:Blake Nelson:4:299
+add_book Who Was John F. Kennedy?:Yona Zeldis McDonough:4:112
+add_book Woman Hollering Creek and Other Stories:Sandra Cisneros:4:192
+add_book Marie Antoinette - The Journey:Antonia Fraser:4:512
+add_book The Coalwood Way - A Memoir - Coalwood no 2:Homer Hickam:4:400
+add_book Life Support:Tess Gerritsen:4:400
+add_book The Book Thief:Markus Zusak:4:552
+add_book Manhunting:Jennifer Crusie:4:328
+add_book A Book of Common Prayer:Joan Didion:4:272
+add_book L'Orient c'est l'Orient:T. Coraghessan Boyle:4:370
+search_book Half of a Yellow Sun
+search_book The Control of Nature
+list_author Dava Sobel
+list_author Thomas Sowell
+list_author Robert M. Pirsig
+search_book They Came from Below
+search_book L'Orient c'est l'Orient
+add_book The Deeds of the Disturber - Amelia Peabody no 5:Elizabeth Peters:4:389
+add_book 2006 International Building Code:International Code Council - ICC:3:664
+add_book Encyclopedia of an Ordinary Life:Amy Krouse Rosenthal:4:240
+add_book War with the Newts:Karel Capek:4:348
+add_book Selected Short Stories:William Faulkner:4:320
+add_book The Nightingale's Song:Kathleen Eschenburg:4:384
+add_book Seinfeld and Philosophy:William Irwin:4:224
+list_author Michael Chabon
+list_author Ayn Rand

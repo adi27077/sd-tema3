@@ -1,0 +1,45 @@
+MUSAT-BURCEA Adrian - 312CB
+SD Tema 3
+
+Operatii implementate:
+add_book: se citesc numele, autorul, ratingul si nr de pagini si se creeaza
+    o structura pt aceasta. Functia insereaza cartea in T1, iar daca aceasta
+    exista deja, se elibereaza memoria utilizata de carte. Daca inserarea
+    in T1 reuseste, se verifica daca autorul exista in T2. Daca nu exista, se
+    creaza arborele de carti aferent lui si se insereaza in T2. Daca autorul
+    exista deja, cartea se insereaza in arborele corespunzator lui. Functia de
+    adaugare parcurge fiecare caracter din cheie si creeaza nodurile coresp
+    daca nu exista. Cand se ajunge la sfarsitul cheii se insereaza informatia.
+
+search_book: se identifica mai intai daca avem autocompletare (ultimul caracter
+    este '~'). Daca nu, se cauta numele cartii in T1 prin parcurgerea fiecarui
+    caracter din cheie si identificarea nodurilor. Daca este gasita cartea,
+    se afiseaza informatiile ei. Pt autocompletare se cauta prefixul dat in 
+    T1 si daca se ajunge la sfarsitul se returneaza subarborele ramas. Dupa
+    se foloseste functia de afisare care se opreste dupa 3 afisari pt a afisa
+    primele 3 numele de carti.
+
+list_author: se identifica mai intai daca avem autocompletare (ultimul caracter
+    este '~'). Daca nu, se cauta autorul in T2 si se returneaza adresa
+    arborelui sau daca este gasit. Dupa aceea se afiseaza toate cartiile
+    folosind functia de afisare recursiva in ordine lexicografica. Pt 
+    autocompletare este similar ca la search_book.
+
+search_by_author: se identifica daca avem autocompletare pt autor sau pt titlu
+    sau nu. Daca nu, se cauta autorul in T2 si se returneaza adresa
+    arborelui sau daca este gasit. Dupa se aplica search_book pe arborele
+    gasit. Daca avem autocompletare la titlu se cauta autorul in T2 si se 
+    returneaza arborele corespunzator, apoi se foloseste functia de
+    autocompletare de la search_book pe arborele gasit. Daca avem
+    autocompletare la autor se foloseste functia de autocompletare de la
+    list_author. 
+
+delete_book: functia verifica mai intai daca exista cartea in T1. Daca este
+    gasita, se elibereaza memoria pt carte si se elimina cartea din T1 si din
+    arborele corespunzator autorului (prin cautarea autorului in T2). Dupa,
+    se verifica daca arborele corespunzator autorului cartii este gol. Daca da,
+    se dezaloca memoria acestui arborele si se elimina autorul din T2.
+
+Mai multe detalii in comentariile din cod.
+
+Punctaj checker local: 135 + 20

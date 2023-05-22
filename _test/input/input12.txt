@@ -1,0 +1,156 @@
+add_book The Celestine Prophecy - An Experiential Guide:James Redfield:4:304
+add_book Anyone But You:Jennifer Crusie:4:283
+add_book Jorge Luis Borges:Nextext:4:223
+add_book Fifty Degrees Below - Science in the Capital no 2:Kim Stanley Robinson:4:640
+add_book If I Have a Wicked Stepmother Where's My Prince?:Melissa Kantor:4:283
+add_book Dragonsong - Harper Hall no 1:Anne McCaffrey:4:192
+add_book Insomnia:Stephen King:4:890
+add_book Franny and Zooey:J.D. Salinger:4:201
+add_book Sir Gawain And The Green Knight:Michael Morpurgo:4:120
+add_book Fear - Fearless no 23:Francine Pascal:4:208
+add_book Good as Gold:Joseph Heller:3:445
+add_book Mark Twain's Adventures of Huckleberry Finn:Mark Twain:4:264
+add_book Nothing Lasts Forever:Sidney Sheldon:4:384
+add_book The Lost Continent - The Story of Atlantis:Charles John Cutcliffe Wright Hyne:4:260
+add_book Red Prophet - Tales of Alvin Maker no 2:Orson Scott Card:4:311
+add_book The Sea:John Banville:4:195
+add_book Summer of the Dragon:Elizabeth Peters:4:352
+add_book The Guide to Hollywood and Beverly Hills:Charles Lockwood:4:174
+add_book Tom Hunter - Living in Hell and Other Stories:Tom Hunter:4:80
+add_book Postwar - A History of Europe Since 1945:Tony Judt:4:933
+add_book Dragonflight - Pern - Dragonriders of Pern no 1:Anne McCaffrey:4:8
+add_book Jurassic Park:Michael Crichton:4:400
+add_book Ilium - Ilium no 1:Dan Simmons:4:752
+add_book Verserade tankar:Lennart Hellsing:3:128
+add_book The Green Pearl - Lyonesse no 2:Jack Vance:4:407
+add_book Beyond Good and Evil:Friedrich Nietzsche:4:240
+add_book The Regeneration Trilogy - Regeneration no 1-3:Pat Barker:4:592
+add_book The Vampire Lestat - The Vampire Chronicles no 2:Anne Rice:4:481
+add_book Where Rainbows End:Cecelia Ahern:4:454
+add_book Past Mortem:Ben Elton:4:460
+add_book Feel the Fear . . . and Do It Anyway:Susan Jeffers:4:217
+add_book Cygnet - Cygnet no 1-2:Patricia A. McKillip:4:406
+add_book The Interpreter:Suki Kim:4:304
+add_book Controversy Creates Cash:Eric Bischoff:4:389
+add_book Zorro:Isabel Allende:4:677
+add_book Wild Fire - The Hot Zone no 3:Debra Cowan:4:250
+add_book Orlando - A Biography - Film Screenplay:Sally Potter:4:75
+add_book A Song Of Stone:Iain Banks:3:280
+add_book Golden Urchin:Madeleine Brent:4:384
+add_book Cujo:Stephen King:4:432
+add_book Love Artist - Harlequin Romance no 2860:Valerie Parv:3:187
+add_book Port Mungo:Patrick McGrath:3:242
+add_book Black Man of the Nile and His Family:Yosef A.A. Ben-Jochannan:5:442
+add_book Rachel's Holiday - Walsh Family no 2:Marian Keyes:4:578
+add_book 7 Steps to Midnight:Richard Matheson:3:320
+add_book Crime and Punishment:Fyodor Dostoyevsky:4:560
+add_book Die Farbe von Wasser:James McBride:4:317
+add_book Melliandra:J.V. Jones:4:734
+add_book Memoirs of the Second World War:Winston S. Churchill:4:1088
+add_book Half of a Yellow Sun:Chimamanda Ngozi Adichie:4:433
+add_book Very Far Away from Anywhere Else:Ursula K. Le Guin:4:133
+add_book The Hero and the Crown - Damar no 2:Robin McKinley:4:227
+search_by_author James McBride:Die Farbe von Wasser
+search_by_author James McBride:Die Farbe von Wasser
+search_by_author Valerie Parv:Love Artist - Harlequin Romance no 2860
+search_by_author Richard Matheson:7 Steps to Midnight
+search_by_author Patricia A. McKillip:Cygnet - Cygnet no 1-2
+search_by_author Debra Cowan:Wild Fire - The Hot Zone no 3
+search_by_author Debra Cowan:Wild Fire - The Hot Zone no 3
+search_book Melliandra
+search_book Zorro
+search_book Tyrannosaurus Wrecks - Stanley no 1
+add_book Racso and the Rats of NIMH - Rats of NIMH no 2:Jane Leslie Conly:4:288
+add_book Beatles - Every Little Thing:Maxwell Mackenzie:4:224
+add_book Manhunt Official Strategy Guide:Tim Bogenn:4:175
+add_book The Berenstain Bears and the Blame Game:Stan Berenstain:4:32
+add_book Love Poems and Sonnets:William Shakespeare:4:160
+add_book Breach of Promise:James Scott Bell:4:345
+add_book Lotta on Troublemaker Street:Astrid Lindgren:4:55
+add_book Mortals:Norman Rush:4:736
+add_book Turtle Island:Gary Snyder:4:112
+add_book The Inner Sanctum:Stephen W. Frey:4:448
+add_book With No One as Witness - Inspector Lynley no 13:Elizabeth George:4:784
+add_book A Stolen Season - Alex McKnight no 7:Steve Hamilton:4:304
+list_author Debra Cowan
+list_author Charles A. Coulombe
+list_author Theocritus
+search_by_author Takashi Hashiguchi:Yakitate!! Japan Volume 3
+search_by_author Marguerite Duras:Les petits chevaux de Tarquinia
+search_by_author Astrid Lindgren:The Brothers Lionheart
+search_by_author Elizabeth George:With No One as Witness - Inspector Lynley no 13
+search_by_author Robert Coles:The Story of Ruby Bridges
+search_by_author Nigel Warburton:Philosophy - The Basics
+search_by_author Keith Donohue:The Irish Anatomist - A Study of Flann O'Brien
+search_by_author Margery Clark:The Poppy Seed Cakes
+search_by_author E. Nesbit:The Railway Children
+search_by_author J.D. Salinger:Franny and Zooey
+list_author Lennart Hellsing
+list_author J.D. Salinger
+list_author Charles Dickens
+list_author Audrey Penn
+list_author Stephen W. Frey
+list_author Alastair Lamb
+search_book Half of a Yellow Sun
+search_book Fear - Fearless no 23
+search_book The Vampire Lestat - The Vampire Chronicles no 2
+search_book The Hero and the Crown - Damar no 2
+search_book The Interpreter
+search_book Insomnia
+search_book The Ministry of Special Cases
+search_book A Mind To Murder - Adam Dalgliesh no 2
+search_book Nothing Lasts Forever
+search_book Love Artist - Harlequin Romance no 2860
+search_book Rachel's Holiday - Walsh Family no 2
+search_book Witches Abroad - Discworld no 12
+search_book Dragonflight - Pern - Dragonriders of Pern no 1
+search_book Past Mortem
+search_book Where Rainbows End
+search_book Whoreson
+search_book Melliandra
+search_book Kafka on the Shore
+search_book The Guide to Hollywood and Beverly Hills
+search_book Beyond Good and Evil
+search_by_author Tim Bogenn:Manhunt Official Strategy Guide
+search_by_author Anthony Burgess:The Wanting Seed
+search_by_author Michael Moorcock:Michael Moorcock's Multiverse
+search_by_author Richard Matheson:7 Steps to Midnight
+search_by_author Francine Pascal:Fear - Fearless no 23
+add_book Inversions - Culture no 6:Iain M. Banks:4:343
+add_book Nobody Loves a Centurion - SPQR no 6:John Maddox Roberts:4:288
+add_book War and Peace:Leo Tolstoy:4:1392
+add_book Gentlemen and Players:Joanne Harris:4:422
+add_book The New York Trilogy:Paul Auster:4:308
+add_book The Road Not Taken and Other Poems:Robert Frost:4:49
+add_book Tunnel in the Sky - Heinlein's Juveniles no 9:Robert A. Heinlein:4:262
+add_book The Ruby Ring:Diane Haeger:4:371
+add_book The Red Badge of Courage and The Veteran:Stephen Crane:3:336
+add_book Hard Candy:Angela Knight:4:350
+add_book The Hand of Chaos - The Death Gate Cycle no 5:Margaret Weis:4:446
+add_book El azul de la virgen:Tracy Chevalier:4:411
+add_book Harrius Potter et Camera Secretorum:J.K. Rowling:4:277
+add_book Unnatural Exposure - Kay Scarpetta no 8:Patricia Cornwell:4:367
+add_book Legends 2 - Legends 1 Volume 2of3:Robert Silverberg:4:379
+add_book Burning The Map:Laura Caldwell:4:288
+add_book The Christians and the Fall of Rome - Great Ideas:Edward Gibbon:4:96
+list_author Johanna Rothman
+list_author Jane Leslie Conly
+list_author Evangeline Walton
+list_author John Banville
+list_author William Manchester
+list_author Rachel Klein
+list_author Carol Lloyd
+search_book A Damsel in Distress
+search_book Sweet Anger
+search_book On Basilisk Station - Honor Harrington no 1
+search_book Dragonflight - Pern - Dragonriders of Pern no 1
+search_book Rachel's Holiday - Walsh Family no 2
+search_book Ilium - Ilium no 1
+search_book Magician - The Riftwar Saga no 1-2
+search_book Sorcery Rising - Fool's Gold no 1
+search_book Monster Island - Monster Island no 1
+search_by_author Robin McKinley:The Hero and the Crown - Damar no 2
+search_by_author Kresley Cole:If You Dare - MacCarrick Brothers no 1
+search_by_author Tony Judt:Postwar - A History of Europe Since 1945
+search_by_author Joseph Heller:Good as Gold
+search_by_author Laura Caldwell:Burning The Map
